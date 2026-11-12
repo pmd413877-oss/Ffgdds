@@ -1,0 +1,6 @@
+{
+  "name": "PR. Social Auto",
+  "description": "Instagram follow task automation machine with instant follow detection, auto-screenshot capture, and automatic server upload & submission.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
